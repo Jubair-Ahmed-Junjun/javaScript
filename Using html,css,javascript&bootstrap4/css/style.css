@@ -1,0 +1,44 @@
+.lol{
+    height: 500px;
+    border: 1px solid red;
+    width: 50%;
+}
+
+.lol2{
+    height: 500px;
+    border: 1px solid red;
+    width: 50%;
+}
+.class-one{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 100px;
+}
+
+.class-two{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    border-radius: 100px 100px 0px 0px;
+}
+
+.class-three{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius:100px 100px 100px 100px;
+}
+.class-four{
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+    border-radius: 100px 100px 0px 0px;
+}
+
+.class-five{
+    height: 100px;
+    width: 200px;
+    background-color: #d4edda;
+    border-radius: 0px 0px 100px 100px;
+}
